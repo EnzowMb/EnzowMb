@@ -1,8 +1,7 @@
-### Olá!! Eu sou o Enzo Martinelli 👋
+### <Olá!! Eu sou o Enzo Martinelli/> 👋
 
-- 🔭 A procura de um Estágio
-- 🌱 Estudando Web
-- 😄 Pronouns: ele/dele
+Atualmente busco um estágio na área back-end! Estou muito ansioso para poder evoluir como pessoa e profissional, gosto de trabalhar em equipe e sempre busco meu melhor. Sou apaixonado em aprender novas tecnologias e estudar as linguagens que mais me interessam. Minha rotina atual é estudar Web e ampliar meus conhecimentos em Java e banco de dados.
+Estou cursando o 5° semestre em Analise e Desenvolvimento na IFSP
 
 <div>
     <a href="https://github.com/EnzowMb">
