@@ -10,17 +10,18 @@ Estou cursando o 5° semestre em Analise e Desenvolvimento na IFSP
     </a>
 </div>
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Enzo-Java" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Enzo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Enzo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Enzo-Android" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Enzo-Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Enzo-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Enzo-Javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+***
 
-  ##
+|Html|Css|JavaScript|Java|React|Node|Python|Spring Boot
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" alt="Enzo-Html" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" alt="Enzo-Css" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" alt="Enzo-JS" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" alt="Enzo-Java" src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif">|<img style="width: 100px" alt="Enzo-React" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" alt="Enzo-Node" src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=6c09b952dhwk9bqgz0bqz22reneg02ieh74gta1xqkvera4t&ep=v1_stickers_related&rid=giphy.gif&ct=s">|<img style="width: 100px" alt="Enzo-Python" src="https://github.com/EnzowMb/EnzowMb/assets/89809584/d2fd495a-b40b-44a8-bd1d-fa1c7c7a4c58">|<img style="width: 100px" alt="Enzo-Spring Boot" src="https://github.com/EnzowMb/EnzowMb/assets/89809584/4f3d4387-46e5-4b82-ac9a-13848cf7ca41">
+
+|Bootstrap|SQL|Git|Github|VSCode|IntelliJ|Eclipse
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" alt="Enzo-Bootstrap" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|<img style="width: 140px" alt="Enzo-SQL" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">|<img style="width: 100px" alt="Enzo-Git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 140px" alt="Enzo-GitHub" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" alt="Enzo-VSCode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" alt="Enzo-IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016">|<img style="width: 100px" alt="Enzo-Eclipse" src="https://github.com/EnzowMb/EnzowMb/assets/89809584/89e47357-b068-4725-ad8a-63172a402104">
+</br>
+
+***
 
 <div> 
   <a href="https://www.instagram.com/enzow.mb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
