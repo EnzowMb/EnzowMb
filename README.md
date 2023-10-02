@@ -2,11 +2,11 @@
 
 Atualmente busco um estágio na área back-end! Estou muito ansioso para poder evoluir como pessoa e profissional, gosto de trabalhar em equipe e sempre busco meu melhor. Sou apaixonado em aprender novas tecnologias e estudar as linguagens que mais me interessam.
 
-◾ 🔭 Buscando oportunidade na área da Tecnologia!!!!
+◾ 🔭 Buscando oportunidade na área da Tecnologia.
 
-◾ 🚀 Focado atualmente em BackEnd, Java e Banco de Dados!!!
+◾ 🚀 Focado atualmente em BackEnd: Spring Boot, Node e Banco de Dados.
 
-◾ ☕ Estou cursando o 5° semestre em Analise e Desenvolvimento na IFSP!!
+◾ ☕ Estou cursando o 6° semestre em Analise e Desenvolvimento na IFSP!!
 
 <div>
     <a href="https://github.com/EnzowMb">
