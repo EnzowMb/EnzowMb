@@ -6,7 +6,7 @@ Atualmente busco um estágio na área back-end! Estou muito ansioso para poder e
 
 ◾ 🔭 Buscando oportunidade na área da Tecnologia.
 
-◾ 🚀 Focado atualmente em BackEnd: Spring Boot, Node e AWS.
+◾ 🚀 Focado atualmente em Frontend: React, Tailwind e NextJs
 
 ◾ ☕ Estou cursando o 6° semestre em Analise e Desenvolvimento na IFSP.
 
