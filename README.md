@@ -4,7 +4,7 @@
 
 Atualmente busco um estágio na área back-end! Estou muito ansioso para poder evoluir como pessoa e profissional, gosto de trabalhar em equipe e sempre busco meu melhor. Sou apaixonado em aprender novas tecnologias e estudar as linguagens que mais me interessam.
 
-◾ 🔭 Buscando oportunidade na área da Tecnologia.
+◾ 🔭 Estágiario Cadmus
 
 ◾ 🚀 Focado atualmente em Frontend: React, Tailwind e NextJs
 
@@ -12,7 +12,7 @@ Atualmente busco um estágio na área back-end! Estou muito ansioso para poder e
 
 ◾ 🤔 Estou trabalhando em um projeto pessoal (Kaolin) em Node e React.
 
-◾ ❤️ Minhas linguagens favoritas: Javascript e Java
+◾ ❤️ Minhas linguagens favoritas: Java e Typescript
 
 ***
 
