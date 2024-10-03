@@ -6,11 +6,11 @@ Atualmente busco um estágio na área back-end! Estou muito ansioso para poder e
 
 ◾ 🔭 Estágiario Cadmus
 
-◾ 🚀 Focado atualmente em Frontend: React, Tailwind e NextJs
+◾ 🚀 Focado atualmente em Backend com Nest Js.
 
 ◾ ☕ Estou cursando o 6° semestre em Analise e Desenvolvimento na IFSP.
 
-◾ 🤔 Estou trabalhando em um projeto pessoal (Kaolin) em Node e React.
+◾ 🤔 Estou trabalhando em um projeto pessoal (Kaolin) em Nest e React.
 
 ◾ ❤️ Minhas linguagens favoritas: Java e Typescript
 
