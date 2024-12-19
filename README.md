@@ -2,7 +2,7 @@
     Olá!! Eu sou o <a href="https://github.com/EnzowMb" target="blank">Enzo Martinelli </a>👋
 </h1>
 
-Atualmente busco um estágio na área back-end! Estou muito ansioso para poder evoluir como pessoa e profissional, gosto de trabalhar em equipe e sempre busco meu melhor. Sou apaixonado em aprender novas tecnologias e estudar as linguagens que mais me interessam.
+Desenvolvedor Full Stack | Cadmus. Estou muito ansioso para poder evoluir como pessoa e profissional, gosto de trabalhar em equipe e sempre busco meu melhor. Sou apaixonado em aprender novas tecnologias e estudar as linguagens que mais me interessam.
 
 ◾ 🔭 Estágiario Cadmus
 
